@@ -1,0 +1,76 @@
+body {
+  background-image: url("/Users/debbie/Documents/HW1/assets/images/wood_pattern_@2X.png");
+  /* background-color: purple; */
+ }
+
+
+#name{
+
+    width: 320px;
+    height: 45px;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    float: left;
+    font-size: 26px;
+    margin-left: auto;
+    margin-right: 30px;
+    padding-top: 5px;
+}
+
+
+a:link {
+    color: #777777;
+  }
+.wrapper{
+  width: 960px;
+  margin: auto;
+  height: 45px;
+  background-color: #ffffff;
+  
+  
+}
+.wrapper2 {
+  background-color: #ffffff;
+  height: 47px;
+  border-bottom: 2px #cccccc solid;  
+}
+.nav-link {
+  color: #777777;
+}
+.main-bio {
+    width: 960px;
+    border: 2px solid #cccccc;
+    padding: 10px;
+   overflow: scroll;
+   background: #ffffff;
+   color: #777777;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 20px;
+} 
+
+h2 {
+  color: #4aaaa5;
+}
+
+
+.clearfix {
+  overflow: auto;
+}
+
+.me1{   
+  float: left;
+}
+
+footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #666666;
+   color: white;
+   text-align: center;
+   margin: auto;
+   border-top: 8px solid #4aaaa5;
+}
